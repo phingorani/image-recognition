@@ -6,6 +6,23 @@ This application uses a deep learning model to generate a description of an uplo
 
 ![Sample Screenshot](img.png)
 
+## Setup
+
+To set up and run this application, follow these steps:
+
+1.  **Create and activate a virtual environment** (recommended):
+    
+    ```sh
+    python -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    ```
+
+2.  **Install the required dependencies**:
+    
+    ```sh
+    pip install -r requirements.txt
+    ```
+
 ## Usage
 
 To run the application, use the following command:
