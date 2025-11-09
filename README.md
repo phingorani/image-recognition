@@ -31,6 +31,13 @@ To run the application, use the following command:
 streamlit run app.py
 ```
 
+## Running Requirements
+
+*   **Python**: Version 3.8 or higher.
+*   **Memory (RAM)**: At least 8 GB of RAM is recommended, as the model can be memory-intensive.
+*   **Storage**: At least 2 GB of free disk space is required for the model and its dependencies.
+*   **Internet Connection**: An internet connection is required to download the pre-trained model on the first run.
+
 ## ⚠️ Important Considerations
 
 Before you begin, please be aware of the following:

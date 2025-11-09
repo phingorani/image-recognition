@@ -124,3 +124,4 @@ feedback.csv
 
 # IDE
 .idea/
+.idea/*
