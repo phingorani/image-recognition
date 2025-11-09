@@ -9,6 +9,14 @@ st.set_page_config(layout="wide", page_title="Image Description Generator")
 
 st.title("Image Description Generator")
 
+# Add a warning banner
+st.warning(
+    """
+    **Warning:** Free hosting services often have resource constraints that may prevent model training. 
+    For the best experience, please run this application locally if you intend to fine-tune the model with your own images.
+    """
+)
+
 # Create uploads directory if it doesn't exist
 if not os.path.exists('uploads'):
     os.makedirs('uploads')
