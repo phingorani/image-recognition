@@ -1,0 +1,16 @@
+image,generated_description,user_feedback,image_path
+funny.jpg,a description of this image :s radila radia radila radila radila radila radi,That is incorrect. This is a Raccoon wearing green glasses throwing rock hand signs.,
+,a description of this image :s radila radia radila radila radila radila radi,ImportError: cannot import name 'AdamW' from 'transformers' (/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/transformers/__init__.py),uploads/funny.jpg
+,a description of this image : _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ is incorrect. This is a raccoon,uploads/funny.jpg
+,a description of this image : racco,racco is incorrect. It is a racoon,uploads/funny.jpg
+,a description of this image : is a racco,It is a raccoon,uploads/funny.jpg
+,a description of this image : is a hair,It is not hair. It is a racoon. a racoon has hair called fur,uploads/funny.jpg
+,a description of this image : is a raccoon,It is spelled as Racoon,uploads/funny.jpg
+,a description of this image : is racoon it is a racoon,You mentioned it twice. Yes it is a racoon,uploads/funny.jpg
+,a description of this image :s radila radia radila radila radila radila radi,No! It is a raccoon,uploads/funny.jpg
+,a description of this image : is a symbol of the company,Its is the logo of Depaul university,uploads/depaul-university-depaul-university-logo-11563394827bp525xlsac.png
+,a description of this image : university,Its is the logo of Depaul university,uploads/depaul-university-depaul-university-logo-11563394827bp525xlsac.png
+,a description of this image : university logo png,Its is the logo of Depaul university,uploads/depaul-university-depaul-university-logo-11563394827bp525xlsac.png
+,a description of this image : university logo,Its is the logo of Depaul university,uploads/depaul-university-depaul-university-logo-11563394827bp525xlsac.png
+,a description of this image : university logo,Its is the logo of Depaul university,uploads/depaul-university-depaul-university-logo-11563394827bp525xlsac.png
+,a description of this image : university is depaul university,Its is the logo of Depaul university,uploads/depaul-university-depaul-university-logo-11563394827bp525xlsac.png
